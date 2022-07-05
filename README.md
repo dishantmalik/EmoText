@@ -1,5 +1,5 @@
 # EmoText
-A simple little Python script that converts text based Emoticons to Emojis (and maybe vice-versa)
+A simple little Python script that converts text based Emoticons to Emojis
 
 `Input:` A stream of characters that contain text based emoticons. Example: :-), :-( 
 
